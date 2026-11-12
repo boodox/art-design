@@ -4,4 +4,4 @@ While in this realm, the lynx comes across weapons that end up giving him super 
 The realm you end up exploring resembles tropical forest you would see in real life but with a strange otherworldly look to it.
 The lynx goes on to confront many creatures of the realm while trying to find his way home.
 
-gameplay inspiration: I wanted the gameplay to be somewhat similar to Kirby's return to dreamland.
+gameplay inspiration: I wanted the gameplay to be somewhat similar to Kirby's return to dreamland but with just boss fight's.
